@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T05:54:21.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="8Drry73ZvbItB9Tb6d-f" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T05:56:15.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="szboyImUzQm_Hu8d_gmA" version="14.8.3" type="github">
   <diagram id="KQ9YMvx9K7QydHUZPmCT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-13" value="room_name&lt;br&gt;room_type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-15" target="tQT1bi8Lp-rawu2tl-68-17">
           <mxGeometry relative="1" as="geometry" />
@@ -92,7 +92,7 @@
             <mxPoint x="520" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-25" value="Chọn room_type từ danh sách.&amp;nbsp;&lt;br&gt;Nếu chưa có sẽ tạo mới room_type" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-25" value="Chọn room_type từ danh sách.&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="380" y="240" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-31" target="tQT1bi8Lp-rawu2tl-68-33">
@@ -183,8 +183,8 @@
             <mxPoint x="520" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-49" value="Chọn room_type từ danh sách.&amp;nbsp;&lt;br&gt;Nếu chưa có sẽ tạo mới room_type" style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="380" y="900" width="280" height="80" as="geometry" />
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-49" value="Chọn room_type từ danh sách." style="rhombus;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="380" y="910" width="280" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-54" target="tQT1bi8Lp-rawu2tl-68-56">
           <mxGeometry relative="1" as="geometry" />
