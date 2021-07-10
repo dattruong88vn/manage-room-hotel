@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T05:56:15.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="szboyImUzQm_Hu8d_gmA" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:15:59.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2Lb2vcuujuSR9WgkVhty" version="14.8.3" type="github">
   <diagram id="KQ9YMvx9K7QydHUZPmCT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-2" target="tQT1bi8Lp-rawu2tl-68-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-2" value="Url: /api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-2" value="Url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-4" target="tQT1bi8Lp-rawu2tl-68-6">
@@ -47,10 +47,10 @@
           <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-6" value="POST" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-8" value="/api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-10" target="tQT1bi8Lp-rawu2tl-68-13">
           <mxGeometry relative="1" as="geometry" />
@@ -75,17 +75,17 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-15" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-17" value="room_id&lt;br&gt;room_name&lt;br&gt;room_type&lt;br&gt;room_type_id&lt;br&gt;Message: Tạo phòng thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="120" height="100" as="geometry" />
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-17" value="room_id&lt;br&gt;room_name&lt;br&gt;Message: Tạo phòng thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="420" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-19" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="430" width="40" height="20" as="geometry" />
+          <mxGeometry x="390" y="430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-20" value="Message: Tạo phòng thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="560" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="560" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-22" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="570" width="40" height="20" as="geometry" />
+          <mxGeometry x="390" y="570" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-25">
           <mxGeometry relative="1" as="geometry">
@@ -106,19 +106,21 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-31" target="tQT1bi8Lp-rawu2tl-68-39">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="730" />
-              <mxPoint x="200" y="970" />
+              <mxPoint x="200" y="1010" />
+              <mxPoint x="239" y="1010" />
             </Array>
+            <mxPoint x="239" y="1010" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-31" target="tQT1bi8Lp-rawu2tl-68-43">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-31" target="tQT1bi8Lp-rawu2tl-68-43">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="730" />
-              <mxPoint x="200" y="1070" />
+              <mxPoint x="200" y="1110" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -128,7 +130,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-33" target="tQT1bi8Lp-rawu2tl-68-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-33" value="Url: /api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-33" value="Url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-35" target="tQT1bi8Lp-rawu2tl-68-36">
@@ -138,10 +140,10 @@
           <mxGeometry x="240" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-36" value="PUT" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="820" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="820" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-37" value="/api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="700" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-39" target="tQT1bi8Lp-rawu2tl-68-40">
           <mxGeometry relative="1" as="geometry" />
@@ -166,7 +168,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-43" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-44" value="room_id&lt;br&gt;room_name&lt;br&gt;room_type&lt;br&gt;room_type_id&lt;br&gt;Message: Update thông tin thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-44" value="room_id&lt;br&gt;room_name&lt;br&gt;Message: Update thông tin thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="1060" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-45" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -219,7 +221,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-56" target="tQT1bi8Lp-rawu2tl-68-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-56" value="Url: /api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-56" value="Url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-58" target="tQT1bi8Lp-rawu2tl-68-59">
@@ -307,7 +309,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-102" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-103" target="tQT1bi8Lp-rawu2tl-68-107">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-103" value="Url: /api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-103" value="Url" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-104" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-105" target="tQT1bi8Lp-rawu2tl-68-106">
@@ -317,10 +319,10 @@
           <mxGeometry x="240" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-106" value="DELETE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-107" value="/api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1360" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-108" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-109" target="tQT1bi8Lp-rawu2tl-68-110">
           <mxGeometry relative="1" as="geometry" />
@@ -329,7 +331,7 @@
           <mxGeometry x="235" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-110" value="room_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="1580" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-111" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-113" target="tQT1bi8Lp-rawu2tl-68-114">
           <mxGeometry relative="1" as="geometry" />
