@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T06:16:17.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="tt2w4N4v9je9c_Ej6CLn" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:31:06.630Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ExaB-mTUfNONIfSWo2V8" version="14.8.3" type="github">
   <diagram id="KQ9YMvx9K7QydHUZPmCT" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -75,14 +75,14 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-15" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-17" value="room_id&lt;br&gt;room_name&lt;br&gt;Message: Tạo phòng thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-17" value="room_id&lt;br&gt;room_name&lt;br&gt;Message: Tạo thông tin thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="240" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-19" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-20" value="Message: Tạo phòng thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="560" width="200" height="60" as="geometry" />
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-20" value="Message: Tạo thông tin không thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="560" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-22" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="570" width="40" height="20" as="geometry" />
@@ -169,13 +169,13 @@
           <mxGeometry x="240" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-44" value="room_id&lt;br&gt;room_name&lt;br&gt;Message: Update thông tin thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1060" width="120" height="100" as="geometry" />
+          <mxGeometry x="480" y="1060" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-45" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="1090" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-46" value="Message:&amp;nbsp;&amp;nbsp;Update thông tin&amp;nbsp;thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1220" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-47" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="1230" width="40" height="20" as="geometry" />
@@ -231,10 +231,10 @@
           <mxGeometry x="240" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-59" value="GET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-60" value="/api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1920" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="1920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-62" target="tQT1bi8Lp-rawu2tl-68-63">
           <mxGeometry relative="1" as="geometry" />
@@ -243,7 +243,7 @@
           <mxGeometry x="240" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-63" value="room_type_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="2140" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="2140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-66" target="tQT1bi8Lp-rawu2tl-68-67">
           <mxGeometry relative="1" as="geometry">
@@ -270,8 +270,8 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-68" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="2250" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-69" value="Message:&amp;nbsp;&amp;nbsp;Xóa thông tin&amp;nbsp;thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2480" width="120" height="60" as="geometry" />
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-69" value="Message:&amp;nbsp;&amp;nbsp;Lấy thông tin&amp;nbsp;thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="2480" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-70" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="2490" width="40" height="20" as="geometry" />
@@ -349,13 +349,13 @@
           <mxGeometry x="235" y="1680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-114" value="Message: Xóa thông tin thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1660" width="120" height="100" as="geometry" />
+          <mxGeometry x="475" y="1660" width="255" height="100" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-115" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="1690" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-116" value="Message:&amp;nbsp;&amp;nbsp;Xóa thông tin&amp;nbsp;thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1800" width="120" height="60" as="geometry" />
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-116" value="Message:&amp;nbsp;&amp;nbsp;Xóa thông tin&amp;nbsp;không thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1800" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-117" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="1810" width="40" height="20" as="geometry" />
