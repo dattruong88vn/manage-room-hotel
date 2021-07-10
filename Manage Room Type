@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T06:24:36.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="fO7gIjPxgdX5d8VS-fDq" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:25:28.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="TI1XRoAD5RcGcweIgdUQ" version="14.8.3" type="github">
   <diagram id="2xp97Zw0iTjiuMWgeIyG" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="70" />
-              <mxPoint x="200" y="430" />
+              <mxPoint x="200" y="450" />
             </Array>
             <mxPoint x="300" y="465" as="targetPoint" />
           </mxGeometry>
@@ -55,15 +55,15 @@
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="429.58" as="sourcePoint" />
-            <mxPoint x="480" y="429.58" as="targetPoint" />
+            <mxPoint x="360" y="449.58" as="sourcePoint" />
+            <mxPoint x="480" y="449.58" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-20" value="Message: Tạo loại phòng thất bại" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="515" width="200" height="60" as="geometry" />
+          <mxGeometry x="480" y="535" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-21" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="525" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="545" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-28" target="Y2XjnFCSYeTDzNGbtT_D-30">
           <mxGeometry relative="1" as="geometry" />
@@ -104,34 +104,33 @@
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-34" value="/api/room_type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y2XjnFCSYeTDzNGbtT_D-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-36" target="Y2XjnFCSYeTDzNGbtT_D-37">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Y2XjnFCSYeTDzNGbtT_D-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-36">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-36" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Y2XjnFCSYeTDzNGbtT_D-37" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; room_type: &quot;Nắng sớm&quot;,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; unit_price = {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; hour: [[100, 50, 20], [150, 70, 30]],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; night: [250, 300, 350],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; day: [350, 500, 600],&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="260" width="230" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-40" target="Y2XjnFCSYeTDzNGbtT_D-20">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="390" y="430" />
-              <mxPoint x="390" y="545" />
+              <mxPoint x="390" y="450" />
+              <mxPoint x="390" y="565" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-40" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-41" value="room_type&lt;br&gt;room_type_id&lt;br&gt;Message: Tạo loại phòng thành công" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="400" width="210" height="70" as="geometry" />
+          <mxGeometry x="480" y="420" width="210" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-42" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="400" width="40" height="20" as="geometry" />
+          <mxGeometry x="400" y="420" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-44" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="525" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="545" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y2XjnFCSYeTDzNGbtT_D-53">
           <mxGeometry relative="1" as="geometry">
@@ -402,6 +401,9 @@
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-111" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="405" y="1830" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Y2XjnFCSYeTDzNGbtT_D-118" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;room_type: &quot;Nắng sớm&quot;,&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;span&gt;unit_price = {&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; hour: {&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;weekdays: [100, 50, 20],&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;weekdends: [150, 70, 30],&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; night: [250, 300, 350],&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; day: [350, 500, 600],&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="240" width="250" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
