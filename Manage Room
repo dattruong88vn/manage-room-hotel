@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T06:15:59.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="2Lb2vcuujuSR9WgkVhty" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:16:17.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="tt2w4N4v9je9c_Ej6CLn" version="14.8.3" type="github">
   <diagram id="KQ9YMvx9K7QydHUZPmCT" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-10" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-13" value="room_name&lt;br&gt;room_type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-13" value="room_name&lt;br&gt;room_type_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-15" target="tQT1bi8Lp-rawu2tl-68-17">
@@ -151,7 +151,7 @@
         <mxCell id="tQT1bi8Lp-rawu2tl-68-39" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tQT1bi8Lp-rawu2tl-68-40" value="room_id&lt;br&gt;room_name&lt;br&gt;room_type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tQT1bi8Lp-rawu2tl-68-40" value="room_id&lt;br&gt;room_name&lt;br&gt;room_type_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tQT1bi8Lp-rawu2tl-68-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tQT1bi8Lp-rawu2tl-68-43" target="tQT1bi8Lp-rawu2tl-68-44">
