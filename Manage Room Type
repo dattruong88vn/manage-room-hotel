@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T06:29:21.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="UIhS0CBOEiybK_GLvNbb" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:31:44.130Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="_4o2dj2g4reUebP7QzLJ" version="14.8.3" type="github">
   <diagram id="2xp97Zw0iTjiuMWgeIyG" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -224,34 +224,34 @@
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y2XjnFCSYeTDzNGbtT_D-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="2070" as="sourcePoint" />
+            <mxPoint x="160" y="2070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y2XjnFCSYeTDzNGbtT_D-78">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="2070" />
-              <mxPoint x="190" y="2190" />
+              <mxPoint x="200" y="2070" />
+              <mxPoint x="200" y="2190" />
             </Array>
-            <mxPoint x="150" y="2070" as="sourcePoint" />
+            <mxPoint x="160" y="2070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y2XjnFCSYeTDzNGbtT_D-82">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="2070" />
-              <mxPoint x="190" y="2290" />
+              <mxPoint x="200" y="2070" />
+              <mxPoint x="200" y="2290" />
             </Array>
-            <mxPoint x="150" y="2070" as="sourcePoint" />
+            <mxPoint x="160" y="2070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y2XjnFCSYeTDzNGbtT_D-86">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="190" y="2070" />
-              <mxPoint x="190" y="2390" />
+              <mxPoint x="200" y="2070" />
+              <mxPoint x="200" y="2390" />
             </Array>
-            <mxPoint x="150" y="2070" as="sourcePoint" />
+            <mxPoint x="160" y="2070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-74" value="Delete room_type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -261,13 +261,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-76" value="Url: /api/room" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-78" target="Y2XjnFCSYeTDzNGbtT_D-79">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-78" value="Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2160" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-79" value="GET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2160" width="120" height="60" as="geometry" />
@@ -279,7 +279,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-82" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2260" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-83" value="null" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2260" width="120" height="60" as="geometry" />
@@ -287,33 +287,33 @@
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-86" target="Y2XjnFCSYeTDzNGbtT_D-87">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="2390" />
-              <mxPoint x="440" y="2390" />
+              <mxPoint x="450" y="2390" />
+              <mxPoint x="450" y="2390" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Y2XjnFCSYeTDzNGbtT_D-86" target="Y2XjnFCSYeTDzNGbtT_D-89">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="375" y="2390" />
-              <mxPoint x="375" y="2630" />
+              <mxPoint x="385" y="2390" />
+              <mxPoint x="385" y="2630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-86" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="2360" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="2360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-87" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; room_type_id: 1,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; room_type: &quot;Type 1&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;&lt;span&gt;&amp;nbsp; {&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; room_type_id: 2,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; room_type: &quot;Type 2&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;span&gt;&amp;nbsp; &amp;nbsp;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; room_type_id: 3,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; room_type: &quot;Type 3&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; },&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2360" width="140" height="200" as="geometry" />
+          <mxGeometry x="480" y="2360" width="170" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-88" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2370" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="2370" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-89" value="Message:&amp;nbsp;&amp;nbsp;Lấy thông tin&amp;nbsp;không thành công" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="2600" width="250" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-90" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="2610" width="40" height="20" as="geometry" />
+          <mxGeometry x="410" y="2610" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="Y2XjnFCSYeTDzNGbtT_D-97">
           <mxGeometry relative="1" as="geometry">
@@ -406,7 +406,7 @@
           <mxGeometry x="480" y="240" width="250" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Y2XjnFCSYeTDzNGbtT_D-119" value="Delete room_type" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="2040" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="2040" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
