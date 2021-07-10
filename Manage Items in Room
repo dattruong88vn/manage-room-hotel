@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-10T06:49:02.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="ERjXZdrY96Y01MT8-8yY" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-10T06:57:25.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="6m5O5alS3W_ZoCypL0dQ" version="14.8.3" type="github">
   <diagram id="9fDNMA3KFdYC9RTrGKDu" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,14 +73,14 @@
         <mxCell id="iKw44e6rt1n1wCpezROI-12" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKw44e6rt1n1wCpezROI-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_name: &quot;Tủ&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 1,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;price: 5000000&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="iKw44e6rt1n1wCpezROI-13" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_name: &quot;Tủ&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 1,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;price: 5000000&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;image: &quot;http://....&quot;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="280" width="150" height="70" as="geometry" />
         </mxCell>
         <mxCell id="iKw44e6rt1n1wCpezROI-14" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_name: &quot;Coca Cola&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 2,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;price: 20000&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="390" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="iKw44e6rt1n1wCpezROI-17" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1. Nội thất&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2. Thực phẩm&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="330" width="120" height="60" as="geometry" />
+        <mxCell id="iKw44e6rt1n1wCpezROI-17" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1. Nội thất&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2. Thực phẩm &amp;amp; phụ kiện&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="330" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iKw44e6rt1n1wCpezROI-18" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="120" height="60" as="geometry" />
@@ -186,14 +186,11 @@
         <mxCell id="iKw44e6rt1n1wCpezROI-39" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1080" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iKw44e6rt1n1wCpezROI-40" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_id: &quot;1231231&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_name: &quot;Tủ gỗ sồi&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 1,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;price: 5000000&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="520" y="1080" width="180" height="70" as="geometry" />
+        <mxCell id="iKw44e6rt1n1wCpezROI-40" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_id: &quot;1231231&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_name: &quot;Tủ gỗ sồi&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 1,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;price: 5000000&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;image: &quot;http://....&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1070" width="180" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iKw44e6rt1n1wCpezROI-41" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_id: &quot;22222&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item: &quot;PepsiCola&quot;,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 2,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;price: 20000&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="520" y="1190" width="150" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="iKw44e6rt1n1wCpezROI-42" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1. Nội thất&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2. Thực phẩm&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iKw44e6rt1n1wCpezROI-43" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="1320" width="120" height="60" as="geometry" />
@@ -323,6 +320,107 @@
             <Array as="points">
               <mxPoint x="460" y="1990" />
               <mxPoint x="460" y="2105" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-71" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;1. Nội thất&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;2. Thực phẩm &amp;amp; phụ kiện&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-74" target="iKw44e6rt1n1wCpezROI-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-74" target="iKw44e6rt1n1wCpezROI-79">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="2310" />
+              <mxPoint x="220" y="2430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-74" target="iKw44e6rt1n1wCpezROI-84">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="2520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="2310" />
+              <mxPoint x="220" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-74" value="Get List items" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-76" target="iKw44e6rt1n1wCpezROI-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-76" value="URL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-77" value="/api/item" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-79" target="iKw44e6rt1n1wCpezROI-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-79" value="Method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-80" value="GET" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-84" target="iKw44e6rt1n1wCpezROI-85">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="2550" />
+              <mxPoint x="490" y="2550" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-84" value="Params" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-85" value="&lt;div style=&quot;text-align: justify&quot;&gt;item_type: 1 /&amp;nbsp; 2&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="iKw44e6rt1n1wCpezROI-89">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="2310" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="2310" />
+              <mxPoint x="220" y="2670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iKw44e6rt1n1wCpezROI-89" target="iKw44e6rt1n1wCpezROI-90">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="2670" />
+              <mxPoint x="490" y="2670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-89" value="Response" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-90" value="&lt;div style=&quot;text-align: justify&quot;&gt;[&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;item_id: 1,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;item_name: &quot;Tủ gỗ sồi&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;price: 5000000,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;image: &quot;http://...&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;},&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;{&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;		&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;item_id: 2,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;		&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;item_name: &quot;Nệm kymdan&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;		&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;price: 3000000,&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;		&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;image: &quot;http://...&quot;&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;}&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;...&lt;/div&gt;&lt;div style=&quot;text-align: justify&quot;&gt;]&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2640" width="240" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-91" value="&lt;div style=&quot;text-align: justify&quot;&gt;&lt;span&gt;message: Lấy thông tin không thành công&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="2920" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-92" value="Success" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2650" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-93" value="Failed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="2930" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iKw44e6rt1n1wCpezROI-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="2670" as="sourcePoint" />
+            <mxPoint x="519" y="2950" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="460" y="2670" />
+              <mxPoint x="460" y="2950" />
+              <mxPoint x="519" y="2950" />
             </Array>
           </mxGeometry>
         </mxCell>
